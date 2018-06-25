@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+html,
+body {
+  height: 100%;
+  background: #f7f7f7;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.book-list {
+  width: 500px;
+  margin-left: 40px;
+  position: relative;
+  display: inline-block;
+  vertical-align: text-top;
+}
+.book-list ul {
+  list-style: none;
+}
+
+.book-list ul li {
+  margin-top: 15px;
+  background: #fff;
+  border-left: 4px solid rgb(143, 201, 251);
+  height: 120px;
+  box-shadow: 4px 4px 40px rgba(0, 0, 0, 0.05);
+  display: flex;
+}
+
+.book-item img {
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.book-item .util {
+  padding-top: 85px;
+  right: 30px;
+  position: absolute;
+}
+
+.book-item h3 {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.book-item .util p {
+  display: inline-block;
+}
+
+.book-item .util button {
+  margin-left: 10px;
+  border-width: 1px;
+  color: #363636;
+  cursor: pointer;
+  justify-content: center;
+  padding-bottom: calc(0.375em - 1px);
+  padding-top: calc(0.375em - 1px);
+  text-align: center;
+  white-space: nowrap;
+  background-color: #20bc56;
+  border-color: transparent;
+  color: #fff;
+  border-radius: 290486px;
+  padding-left: 1em;
+  padding-right: 1em;
+  outline: none;
+}
+
+.book-item .util button:hover {
+  background-color: #22c65b;
+  border-color: transparent;
+  color: #fff;
+}
+
+.book-cat {
+  flex-flow: row;
+}

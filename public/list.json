@@ -1,0 +1,32 @@
+[
+  {
+    "name": "解忧杂货店",
+    "price": 13,
+    "img": "https://img3.doubanio.com/view/subject/m/public/s27264181.jpg"
+  },
+  {
+    "name": "巨人的陨落 : 世纪三部曲",
+    "price": 14,
+    "img": "https://img3.doubanio.com/view/subject/m/public/s28668834.jpg"
+  },
+  {
+    "name": "我的前半生",
+    "price": 29,
+    "img": "https://img1.doubanio.com/view/subject/m/public/s2720819.jpg"
+  },
+  {
+    "name": "追风筝的人",
+    "price": 23,
+    "img": "https://img3.doubanio.com/view/subject/m/public/s1727290.jpg"
+  },
+  {
+    "name": "百年孤独",
+    "price": 42,
+    "img": "https://img3.doubanio.com/view/subject/m/public/s6384944.jpg"
+  },
+  {
+    "name": "霍乱时期的爱情",
+    "price": 99,
+    "img": "https://img3.doubanio.com/view/subject/m/public/s11284102.jpg"
+  }
+]
